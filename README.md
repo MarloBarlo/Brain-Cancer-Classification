@@ -63,10 +63,10 @@ The model is trained on a split of training and validation data, and evaluated u
 **Training & Test Accuracy**  
 ![image](https://github.com/user-attachments/assets/b50868f3-4b48-4175-9dc8-44b7ac863424)
 
-**Cancerus MRI Scan
+**Cancerus MRI Scan**
 ![image](https://github.com/user-attachments/assets/23b9fe19-8792-4c0c-9e2a-5af691e2501e)
 
-**Cancer free MRI Scan
+**Cancer free MRI Scan**
 ![image](https://github.com/user-attachments/assets/17a3c2b5-603f-437f-ba85-f2358362adca)
 
 ---
